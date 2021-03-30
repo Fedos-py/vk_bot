@@ -1,1 +1,1 @@
-vk_api, requests, sqlite3, datetime
+sqlite3
