@@ -1,1 +1,1 @@
-vk_api, VkLongPoll, VkEventType, VkBotLongPoll, VkBotEventType, requests, sqlite3, datetime
+vk_api, vk_api.longpoll, vk_api.bot_longpoll, VkBotLongPoll, VkBotEventType, requests, sqlite3, datetime
